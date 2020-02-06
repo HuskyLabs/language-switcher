@@ -7,6 +7,10 @@
     Inspired by Klasa framework (discord.js framework) language feature 
 
 */
+/*
+const english = require("./languages/en");
+const french = require("./languages/fn");
+*/
 
 // Used to choose what language to use
 // Must retrun as to pass the text of key
